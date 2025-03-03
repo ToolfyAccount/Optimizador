@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:296d74d6bbfd0ece82482b07c594cc1311176083a753c64a0778611937478d14
-size 482
+Nuestra aplicación es una herramienta de optimización diseñada para mejorar el rendimiento general de tu computadora. Al utilizarla, experimentarás una mayor eficiencia en tus tareas diarias, garantizando una experiencia informática más fluida y productiva.
+
