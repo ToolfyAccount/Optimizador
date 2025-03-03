@@ -1,23 +1,3 @@
-UBICA ESTA CARPETA EN UN LUGAR EN EL QUE LA VAYAS A DEJAR POR UN BUEN TIEMPO.
-
-Si por alguna razón cambias la ubicación de Optimizador.exe debes ejecutar el archivo Desinstalar.exe, si por alguna razón se elimino el archivo, debe hacer esto:
-
-
-1. Ir a la carpeta "C:\Program Files"
-
-
-2.Eliminar la carpeta Optimizador con todo lo que hay adentro de la carpeta optimizador. 
-
-
-ADVERTENCIA
-
- NO ELIMINAR OTROS ARCHIVOS DE PROGRAM FILES
-
- Si te sale un error como una "X" o algo asi, debes escribirle a este numero +57 305 3347214 o a esta dirección de correo electrónico: soportetoolify@gmail.com
-
-
-
-Hace falta mencionar que "Ubicación" se refiere a ubicación entre carpetas, no ubicación del Computador, si te llegas a mudar o cambias la ubicación del computador no hay necesidad de que hagas los pasos anteriores.
-
-Intenta no eliminar este archivo de texto, guárdalo al lado del Optimizador.exe por si en alguno momento lo llegas a necesitar
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac89dff9183aeb3da266697cdd4d88d053a898e289aa57eb2cc8230f1103b1eb
+size 976
